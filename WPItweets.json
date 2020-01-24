@@ -1,5 +1,57 @@
 [
  {
+  "created_at": "Fri Jan 24 17:36:03 +0000 2020",
+  "id": 1220762197992910853,
+  "id_str": "1220762197992910853",
+  "text": "It\u2019s not every day you witness a student doing tissue engineering on a vegetable. This #GoatOfTheWeek hopes to demo\u2026 https://t.co/AJIChA3G9T",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "GoatOfTheWeek",
+     "indices": [
+      87,
+      101
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/AJIChA3G9T",
+     "expanded_url": "https://twitter.com/i/web/status/1220762197992910853",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 16687357,
+   "id_str": "16687357"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 2,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
   "created_at": "Fri Jan 24 14:39:34 +0000 2020",
   "id": 1220717786382520320,
   "id_str": "1220717786382520320",
@@ -242,7 +294,7 @@
    "lang": "en"
   },
   "retweet_count": 1,
-  "favorite_count": 4,
+  "favorite_count": 5,
   "favorited": false,
   "retweeted": false,
   "possibly_sensitive": false,
@@ -18321,58 +18373,6 @@
   "is_quote_status": false,
   "retweet_count": 0,
   "favorite_count": 6,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en"
- },
- {
-  "created_at": "Mon Dec 09 23:12:01 +0000 2019",
-  "id": 1204176906188402688,
-  "id_str": "1204176906188402688",
-  "text": "WPI's new master's in #neuroscience program will prepare graduates with the skills needed to tackle one of the most\u2026 https://t.co/zSna3Rzsaq",
-  "truncated": true,
-  "entities": {
-   "hashtags": [
-    {
-     "text": "neuroscience",
-     "indices": [
-      22,
-      35
-     ]
-    }
-   ],
-   "symbols": [],
-   "user_mentions": [],
-   "urls": [
-    {
-     "url": "https://t.co/zSna3Rzsaq",
-     "expanded_url": "https://twitter.com/i/web/status/1204176906188402688",
-     "display_url": "twitter.com/i/web/status/1\u2026",
-     "indices": [
-      117,
-      140
-     ]
-    }
-   ]
-  },
-  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
-  "user": {
-   "id": 16687357,
-   "id_str": "16687357"
-  },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "is_quote_status": false,
-  "retweet_count": 6,
-  "favorite_count": 22,
   "favorited": false,
   "retweeted": false,
   "possibly_sensitive": false,
