@@ -1,0 +1,5159 @@
+[
+ {
+  "created_at": "Sat Jan 25 19:28:02 +0000 2020",
+  "id": 1221152766980239360,
+  "id_str": "1221152766980239360",
+  "text": "First week of classes is in the books. \ud83c\udf1f \n#berkeleypov by @idiot.number.4 #regram https://t.co/dhmVIO869U",
+  "truncated": false,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "berkeleypov",
+     "indices": [
+      42,
+      54
+     ]
+    },
+    {
+     "text": "regram",
+     "indices": [
+      74,
+      81
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "idiot",
+     "name": "@idiot",
+     "id": 202571491,
+     "id_str": "202571491",
+     "indices": [
+      58,
+      64
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1221152763582799872,
+     "id_str": "1221152763582799872",
+     "indices": [
+      82,
+      105
+     ],
+     "media_url": "http://pbs.twimg.com/media/EPJn9_HW4AAMKcV.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/EPJn9_HW4AAMKcV.jpg",
+     "url": "https://t.co/dhmVIO869U",
+     "display_url": "pic.twitter.com/dhmVIO869U",
+     "expanded_url": "https://twitter.com/UCBerkeley/status/1221152766980239360/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1490,
+       "h": 1490,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "features": {
+      "small": {
+       "faces": []
+      },
+      "large": {
+       "faces": []
+      },
+      "orig": {
+       "faces": []
+      },
+      "medium": {
+       "faces": []
+      }
+     }
+    }
+   ]
+  },
+  "extended_entities": {
+   "media": [
+    {
+     "id": 1221152763582799872,
+     "id_str": "1221152763582799872",
+     "indices": [
+      82,
+      105
+     ],
+     "media_url": "http://pbs.twimg.com/media/EPJn9_HW4AAMKcV.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/EPJn9_HW4AAMKcV.jpg",
+     "url": "https://t.co/dhmVIO869U",
+     "display_url": "pic.twitter.com/dhmVIO869U",
+     "expanded_url": "https://twitter.com/UCBerkeley/status/1221152766980239360/photo/1",
+     "type": "photo",
+     "sizes": {
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "large": {
+       "w": 1490,
+       "h": 1490,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "features": {
+      "small": {
+       "faces": []
+      },
+      "large": {
+       "faces": []
+      },
+      "orig": {
+       "faces": []
+      },
+      "medium": {
+       "faces": []
+      }
+     }
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 5,
+  "favorite_count": 47,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Fri Jan 24 23:01:01 +0000 2020",
+  "id": 1220843979870232576,
+  "id_str": "1220843979870232576",
+  "text": "\ud83c\udfa7 #CampusConversation: Coaches Mark Fox and Charmin Smith stressed their desire to build a team culture that attrac\u2026 https://t.co/Jp9PlroVi7",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "CampusConversation",
+     "indices": [
+      2,
+      21
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/Jp9PlroVi7",
+     "expanded_url": "https://twitter.com/i/web/status/1220843979870232576",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 5,
+  "favorite_count": 25,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Fri Jan 24 21:44:58 +0000 2020",
+  "id": 1220824839830888454,
+  "id_str": "1220824839830888454",
+  "text": "What preschoolers can teach us about organizational culture \ud83c\udf4e\n\n\"Those who believed they could get smarter over time\u2026 https://t.co/zzARoziqdW",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/zzARoziqdW",
+     "expanded_url": "https://twitter.com/i/web/status/1220824839830888454",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 3,
+  "favorite_count": 8,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Fri Jan 24 19:44:24 +0000 2020",
+  "id": 1220794500097937410,
+  "id_str": "1220794500097937410",
+  "text": "Berkeley scientists have created a blue light-emitting diode (LED) fr/a trendy new #semiconductor material, halide\u2026 https://t.co/eQ6j9lsb4g",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "semiconductor",
+     "indices": [
+      83,
+      97
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/eQ6j9lsb4g",
+     "expanded_url": "https://twitter.com/i/web/status/1220794500097937410",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      116,
+      139
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 2,
+  "favorite_count": 14,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Fri Jan 24 00:00:03 +0000 2020",
+  "id": 1220496448195829761,
+  "id_str": "1220496448195829761",
+  "text": "The 2020 U.S. #census is not just a way of counting the # of people living in a city or state, but a way of apporti\u2026 https://t.co/SwAFG2HY3U",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "census",
+     "indices": [
+      14,
+      21
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/SwAFG2HY3U",
+     "expanded_url": "https://twitter.com/i/web/status/1220496448195829761",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 10,
+  "favorite_count": 29,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Thu Jan 23 17:10:21 +0000 2020",
+  "id": 1220393343668162561,
+  "id_str": "1220393343668162561",
+  "text": "An epidemic of murders in #Oakland has claimed hundreds of lives in the past decade, and the victims\u2019 families ofte\u2026 https://t.co/8Qdt47lHRl",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "Oakland",
+     "indices": [
+      26,
+      34
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/8Qdt47lHRl",
+     "expanded_url": "https://twitter.com/i/web/status/1220393343668162561",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 5,
+  "favorite_count": 15,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Wed Jan 22 19:19:01 +0000 2020",
+  "id": 1220063334554382337,
+  "id_str": "1220063334554382337",
+  "text": "Our @BerkeleyOHC and @KQED sat down w/@JerryBrownGov at his ranch in #ColusaCounty and asked him about everything f\u2026 https://t.co/15s65veKuE",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "ColusaCounty",
+     "indices": [
+      69,
+      82
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BerkeleyOHC",
+     "name": "Oral History Center",
+     "id": 182463996,
+     "id_str": "182463996",
+     "indices": [
+      4,
+      16
+     ]
+    },
+    {
+     "screen_name": "KQED",
+     "name": "KQED",
+     "id": 9677372,
+     "id_str": "9677372",
+     "indices": [
+      21,
+      26
+     ]
+    },
+    {
+     "screen_name": "JerryBrownGov",
+     "name": "Jerry Brown",
+     "id": 19418459,
+     "id_str": "19418459",
+     "indices": [
+      38,
+      52
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/15s65veKuE",
+     "expanded_url": "https://twitter.com/i/web/status/1220063334554382337",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 4,
+  "favorite_count": 15,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Wed Jan 22 17:48:05 +0000 2020",
+  "id": 1220040452512022533,
+  "id_str": "1220040452512022533",
+  "text": "Congratulations to Professor Christina Maslach, #psychology professor emerita, who has been honored with this year\u2019\u2026 https://t.co/3H54oQEvxv",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "psychology",
+     "indices": [
+      48,
+      59
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/3H54oQEvxv",
+     "expanded_url": "https://twitter.com/i/web/status/1220040452512022533",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 8,
+  "favorite_count": 25,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Tue Jan 21 18:43:14 +0000 2020",
+  "id": 1219691943179030528,
+  "id_str": "1219691943179030528",
+  "text": "\ud83c\udfa7 #BerkeleyTalks: Paul Butler on how prison abolition would make us all safer\n\n\"The United States now locks up more\u2026 https://t.co/89CVg8cCTB",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "BerkeleyTalks",
+     "indices": [
+      2,
+      16
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/89CVg8cCTB",
+     "expanded_url": "https://twitter.com/i/web/status/1219691943179030528",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 4,
+  "favorite_count": 14,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Tue Jan 21 07:50:00 +0000 2020",
+  "id": 1219527551288213505,
+  "id_str": "1219527551288213505",
+  "text": "Special Event: A Celebration of Dr. Martin Luther King Jr. featuring Damien Sneed \ud83c\udf99\ufe0f \ud83c\udfb6 @CalPerformances #Feb20\u2026 https://t.co/Q4aE8AIn2r",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "Feb20",
+     "indices": [
+      104,
+      110
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "calperformances",
+     "name": "Cal Performances",
+     "id": 94435284,
+     "id_str": "94435284",
+     "indices": [
+      87,
+      103
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/Q4aE8AIn2r",
+     "expanded_url": "https://twitter.com/i/web/status/1219527551288213505",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      112,
+      135
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 5,
+  "favorite_count": 9,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Mon Jan 20 19:22:02 +0000 2020",
+  "id": 1219339316859752448,
+  "id_str": "1219339316859752448",
+  "text": "#FiatLux #MLKDay \ud83c\udf1f\n\nDr. King's 1967 visit to campus: https://t.co/J0v7CXdxtN\nExcerpt of his speech that day:\u2026 https://t.co/n02YSpqCO2",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "FiatLux",
+     "indices": [
+      0,
+      8
+     ]
+    },
+    {
+     "text": "MLKDay",
+     "indices": [
+      9,
+      16
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/J0v7CXdxtN",
+     "expanded_url": "http://bit.ly/2jgs7wK",
+     "display_url": "bit.ly/2jgs7wK",
+     "indices": [
+      53,
+      76
+     ]
+    },
+    {
+     "url": "https://t.co/n02YSpqCO2",
+     "expanded_url": "https://twitter.com/i/web/status/1219339316859752448",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      110,
+      133
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 44,
+  "favorite_count": 120,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Mon Jan 20 18:08:02 +0000 2020",
+  "id": 1219320696251265025,
+  "id_str": "1219320696251265025",
+  "text": "\u201cThe way to right wrongs is to turn the light of truth upon them.\u201d \u2014 Ida B. Wells #400years #FiatLux\u2026 https://t.co/fZqK6YdaG3",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "400years",
+     "indices": [
+      82,
+      91
+     ]
+    },
+    {
+     "text": "FiatLux",
+     "indices": [
+      92,
+      100
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/fZqK6YdaG3",
+     "expanded_url": "https://twitter.com/i/web/status/1219320696251265025",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      102,
+      125
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 18,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Mon Jan 20 15:39:02 +0000 2020",
+  "id": 1219283198737338375,
+  "id_str": "1219283198737338375",
+  "text": "\"Struggle is a never ending process. Freedom is never really won, you earn it and win it in every generation.\" \u2014 Co\u2026 https://t.co/ZP7f0vzFfC",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/ZP7f0vzFfC",
+     "expanded_url": "https://twitter.com/i/web/status/1219283198737338375",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 13,
+  "favorite_count": 50,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Sat Jan 18 19:08:02 +0000 2020",
+  "id": 1218611021297876992,
+  "id_str": "1218611021297876992",
+  "text": "\"Just two Bears on a hike.\" \ud83d\udc3b\ud83d\udc9b\ud83c\udf42 \n#berkeleypov by @amarisrw #regram #breakneckridge\nEdited by UC Berkeley https://t.co/hSkF3GdqTt",
+  "truncated": false,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "berkeleypov",
+     "indices": [
+      33,
+      45
+     ]
+    },
+    {
+     "text": "regram",
+     "indices": [
+      59,
+      66
+     ]
+    },
+    {
+     "text": "breakneckridge",
+     "indices": [
+      67,
+      82
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "amarisrw",
+     "name": "Amaris",
+     "id": 919778582,
+     "id_str": "919778582",
+     "indices": [
+      49,
+      58
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1218611015492857856,
+     "id_str": "1218611015492857856",
+     "indices": [
+      105,
+      128
+     ],
+     "media_url": "http://pbs.twimg.com/media/EOlgQxnUcAAghY4.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/EOlgQxnUcAAghY4.jpg",
+     "url": "https://t.co/hSkF3GdqTt",
+     "display_url": "pic.twitter.com/hSkF3GdqTt",
+     "expanded_url": "https://twitter.com/UCBerkeley/status/1218611021297876992/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 2048,
+       "h": 2047,
+       "resize": "fit"
+      }
+     },
+     "features": {
+      "medium": {
+       "faces": []
+      },
+      "orig": {
+       "faces": []
+      },
+      "small": {
+       "faces": []
+      },
+      "large": {
+       "faces": []
+      }
+     }
+    }
+   ]
+  },
+  "extended_entities": {
+   "media": [
+    {
+     "id": 1218611015492857856,
+     "id_str": "1218611015492857856",
+     "indices": [
+      105,
+      128
+     ],
+     "media_url": "http://pbs.twimg.com/media/EOlgQxnUcAAghY4.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/EOlgQxnUcAAghY4.jpg",
+     "url": "https://t.co/hSkF3GdqTt",
+     "display_url": "pic.twitter.com/hSkF3GdqTt",
+     "expanded_url": "https://twitter.com/UCBerkeley/status/1218611021297876992/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 1200,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 2048,
+       "h": 2047,
+       "resize": "fit"
+      }
+     },
+     "features": {
+      "medium": {
+       "faces": []
+      },
+      "orig": {
+       "faces": []
+      },
+      "small": {
+       "faces": []
+      },
+      "large": {
+       "faces": []
+      }
+     }
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 2,
+  "favorite_count": 41,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Fri Jan 17 00:20:38 +0000 2020",
+  "id": 1217964911566868480,
+  "id_str": "1217964911566868480",
+  "text": "\"By casting doubt on authentic media content, #deepfakes threaten #democracy. People with limited resources are esp\u2026 https://t.co/4mZaAfxWBI",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "deepfakes",
+     "indices": [
+      46,
+      56
+     ]
+    },
+    {
+     "text": "democracy",
+     "indices": [
+      66,
+      76
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/4mZaAfxWBI",
+     "expanded_url": "https://twitter.com/i/web/status/1217964911566868480",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1217883422514761729,
+  "quoted_status_id_str": "1217883422514761729",
+  "quoted_status": {
+   "created_at": "Thu Jan 16 18:56:49 +0000 2020",
+   "id": 1217883422514761729,
+   "id_str": "1217883422514761729",
+   "text": "Safeguarding against misuse of #artificialintelligence requires more than just legislation: \u201cthere should be more t\u2026 https://t.co/igVYPE4xtv",
+   "truncated": true,
+   "entities": {
+    "hashtags": [
+     {
+      "text": "artificialintelligence",
+      "indices": [
+       31,
+       54
+      ]
+     }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+     {
+      "url": "https://t.co/igVYPE4xtv",
+      "expanded_url": "https://twitter.com/i/web/status/1217883422514761729",
+      "display_url": "twitter.com/i/web/status/1\u2026",
+      "indices": [
+       117,
+       140
+      ]
+     }
+    ]
+   },
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 717421569031602176,
+    "id_str": "717421569031602176"
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "retweet_count": 2,
+   "favorite_count": 5,
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "lang": "en"
+  },
+  "retweet_count": 1,
+  "favorite_count": 6,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Thu Jan 16 23:16:23 +0000 2020",
+  "id": 1217948741698760706,
+  "id_str": "1217948741698760706",
+  "text": "Merging old and new microscopy yields best 3D view yet inside cells \n\n\"Combining the 2 techniques gives scientists\u2026 https://t.co/Fnr150FJjl",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/Fnr150FJjl",
+     "expanded_url": "https://twitter.com/i/web/status/1217948741698760706",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      116,
+      139
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 2,
+  "favorite_count": 8,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Wed Jan 15 18:15:03 +0000 2020",
+  "id": 1217510521999630343,
+  "id_str": "1217510521999630343",
+  "text": "\"There are 2 main types of stories that get used. One is a breaking story and the other is a bridging story. The va\u2026 https://t.co/VXhqrXDpX1",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/VXhqrXDpX1",
+     "expanded_url": "https://twitter.com/i/web/status/1217510521999630343",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 9,
+  "favorite_count": 20,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Wed Jan 15 16:15:04 +0000 2020",
+  "id": 1217480325829464064,
+  "id_str": "1217480325829464064",
+  "text": "\"While many elite private universities across the country didn\u2019t admit women as students until women\u2019s suffrage was\u2026 https://t.co/O7iOYPp4Ob",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/O7iOYPp4Ob",
+     "expanded_url": "https://twitter.com/i/web/status/1217480325829464064",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 55,
+  "favorite_count": 144,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Wed Jan 15 00:08:08 +0000 2020",
+  "id": 1217236990279720960,
+  "id_str": "1217236990279720960",
+  "text": "\"As we envision AI aligned w/human values, that process might cause us to think more about how we ourselves really\u2026 https://t.co/oCHullb6Dk",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/oCHullb6Dk",
+     "expanded_url": "https://twitter.com/i/web/status/1217236990279720960",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      116,
+      139
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 7,
+  "favorite_count": 22,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Mon Jan 13 23:34:39 +0000 2020",
+  "id": 1216866176266956800,
+  "id_str": "1216866176266956800",
+  "text": "Berkeley neurologist Robert Knight came up with an improved design that will help protect all helmet-wearers from f\u2026 https://t.co/k3YBQA4mAe",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/k3YBQA4mAe",
+     "expanded_url": "https://twitter.com/i/web/status/1216866176266956800",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 10,
+  "favorite_count": 37,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Mon Jan 13 20:12:16 +0000 2020",
+  "id": 1216815246041657344,
+  "id_str": "1216815246041657344",
+  "text": "Congratulations to Professor Jennifer #Doudna, for winning the 2020 #WolfPrize in Medicine, a prestigious internati\u2026 https://t.co/uFsGwXHvSu",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "Doudna",
+     "indices": [
+      38,
+      45
+     ]
+    },
+    {
+     "text": "WolfPrize",
+     "indices": [
+      68,
+      78
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/uFsGwXHvSu",
+     "expanded_url": "https://twitter.com/i/web/status/1216815246041657344",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 52,
+  "favorite_count": 302,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Fri Jan 10 18:53:01 +0000 2020",
+  "id": 1215708136306331648,
+  "id_str": "1215708136306331648",
+  "text": "I used to tell people, \u201cI have a bachelor\u2019s and master\u2019s from UC Berkeley and now I\u2019m up here hosting drag shows. I\u2026 https://t.co/ACUhDGSZf5",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/ACUhDGSZf5",
+     "expanded_url": "https://twitter.com/i/web/status/1215708136306331648",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 13,
+  "favorite_count": 69,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Fri Jan 10 06:49:01 +0000 2020",
+  "id": 1215525937107865601,
+  "id_str": "1215525937107865601",
+  "text": "\"Adding some color to all of these red rocks.\" \ud83d\udc99\ud83d\udc9b\n#berkeleypov by @wyceee #regram\nEdited by UC Berkeley https://t.co/BvuSNfC1il",
+  "truncated": false,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "berkeleypov",
+     "indices": [
+      50,
+      62
+     ]
+    },
+    {
+     "text": "regram",
+     "indices": [
+      74,
+      81
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "Wyceee",
+     "name": "Wycee de Vera",
+     "id": 476556271,
+     "id_str": "476556271",
+     "indices": [
+      66,
+      73
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1215525933567938561,
+     "id_str": "1215525933567938561",
+     "indices": [
+      104,
+      127
+     ],
+     "media_url": "http://pbs.twimg.com/media/EN5qZX2XkAEq12h.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/EN5qZX2XkAEq12h.jpg",
+     "url": "https://t.co/BvuSNfC1il",
+     "display_url": "pic.twitter.com/BvuSNfC1il",
+     "expanded_url": "https://twitter.com/UCBerkeley/status/1215525937107865601/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 545,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1348,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 961,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "features": {
+      "small": {
+       "faces": [
+        {
+         "x": 263,
+         "y": 332,
+         "h": 31,
+         "w": 31
+        }
+       ]
+      },
+      "large": {
+       "faces": [
+        {
+         "x": 522,
+         "y": 659,
+         "h": 63,
+         "w": 63
+        }
+       ]
+      },
+      "medium": {
+       "faces": [
+        {
+         "x": 464,
+         "y": 586,
+         "h": 56,
+         "w": 56
+        }
+       ]
+      },
+      "orig": {
+       "faces": [
+        {
+         "x": 522,
+         "y": 659,
+         "h": 63,
+         "w": 63
+        }
+       ]
+      }
+     }
+    }
+   ]
+  },
+  "extended_entities": {
+   "media": [
+    {
+     "id": 1215525933567938561,
+     "id_str": "1215525933567938561",
+     "indices": [
+      104,
+      127
+     ],
+     "media_url": "http://pbs.twimg.com/media/EN5qZX2XkAEq12h.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/EN5qZX2XkAEq12h.jpg",
+     "url": "https://t.co/BvuSNfC1il",
+     "display_url": "pic.twitter.com/BvuSNfC1il",
+     "expanded_url": "https://twitter.com/UCBerkeley/status/1215525937107865601/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 545,
+       "h": 680,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1080,
+       "h": 1348,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 961,
+       "h": 1200,
+       "resize": "fit"
+      }
+     },
+     "features": {
+      "small": {
+       "faces": [
+        {
+         "x": 263,
+         "y": 332,
+         "h": 31,
+         "w": 31
+        }
+       ]
+      },
+      "large": {
+       "faces": [
+        {
+         "x": 522,
+         "y": 659,
+         "h": 63,
+         "w": 63
+        }
+       ]
+      },
+      "medium": {
+       "faces": [
+        {
+         "x": 464,
+         "y": 586,
+         "h": 56,
+         "w": 56
+        }
+       ]
+      },
+      "orig": {
+       "faces": [
+        {
+         "x": 522,
+         "y": 659,
+         "h": 63,
+         "w": 63
+        }
+       ]
+      }
+     }
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 43,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Fri Jan 10 06:48:00 +0000 2020",
+  "id": 1215525681616035840,
+  "id_str": "1215525681616035840",
+  "text": "Lab-made versions of gatekeeper proteins filter good from bad just as well as the real thing \u2014 which could be used\u2026 https://t.co/aNKMOSFqoV",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/aNKMOSFqoV",
+     "expanded_url": "https://twitter.com/i/web/status/1215525681616035840",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      116,
+      139
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 8,
+  "favorite_count": 25,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Fri Jan 10 05:56:24 +0000 2020",
+  "id": 1215512695836790784,
+  "id_str": "1215512695836790784",
+  "text": "Power has been restored to all campus buildings. Normal operations will resume on Friday. https://t.co/pUm3nzJ8Yz",
+  "truncated": false,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/pUm3nzJ8Yz",
+     "expanded_url": "https://news.berkeley.edu/2020/01/09/some-campus-buildings-without-power/",
+     "display_url": "news.berkeley.edu/2020/01/09/som\u2026",
+     "indices": [
+      90,
+      113
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": 1215382142055665664,
+  "in_reply_to_status_id_str": "1215382142055665664",
+  "in_reply_to_user_id": 176932593,
+  "in_reply_to_user_id_str": "176932593",
+  "in_reply_to_screen_name": "UCBerkeley",
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 3,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Thu Jan 09 23:37:35 +0000 2020",
+  "id": 1215417363446804482,
+  "id_str": "1215417363446804482",
+  "text": "Her father chose to work on blockbuster film series like Fast &amp; Furious and Transformers. Clara Mokri wanted to for\u2026 https://t.co/hCn4SWeKgO",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/hCn4SWeKgO",
+     "expanded_url": "https://twitter.com/i/web/status/1215417363446804482",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      121,
+      144
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 5,
+  "favorite_count": 18,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Thu Jan 09 21:17:38 +0000 2020",
+  "id": 1215382142055665664,
+  "id_str": "1215382142055665664",
+  "text": "Barrows Hall remains without power after an early morning outage. Power has been restored to all other campus build\u2026 https://t.co/029NI6VPwm",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/029NI6VPwm",
+     "expanded_url": "https://twitter.com/i/web/status/1215382142055665664",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": 1215307520559869952,
+  "in_reply_to_status_id_str": "1215307520559869952",
+  "in_reply_to_user_id": 176932593,
+  "in_reply_to_user_id_str": "176932593",
+  "in_reply_to_screen_name": "UCBerkeley",
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 4,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Thu Jan 09 19:56:50 +0000 2020",
+  "id": 1215361810104225793,
+  "id_str": "1215361810104225793",
+  "text": "We are committed to all communities who feel the need for support during these times. We value an inclusive culture\u2026 https://t.co/L46g0pN5aW",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/L46g0pN5aW",
+     "expanded_url": "https://twitter.com/i/web/status/1215361810104225793",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 20,
+  "favorite_count": 76,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Thu Jan 09 19:22:53 +0000 2020",
+  "id": 1215353266961145856,
+  "id_str": "1215353266961145856",
+  "text": "Network access in several buildings has been restored but four campus buildings remain without power. We will conti\u2026 https://t.co/WvZuFW3CzH",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/WvZuFW3CzH",
+     "expanded_url": "https://twitter.com/i/web/status/1215353266961145856",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": 1215308103341600771,
+  "in_reply_to_status_id_str": "1215308103341600771",
+  "in_reply_to_user_id": 176932593,
+  "in_reply_to_user_id_str": "176932593",
+  "in_reply_to_screen_name": "UCBerkeley",
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 6,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Thu Jan 09 18:48:57 +0000 2020",
+  "id": 1215344725537873920,
+  "id_str": "1215344725537873920",
+  "text": "Vice Chancellor Oscar Dub\u00f3n kicking off the UC Chicanx/Latinx Leadership Summit. @UCdiverse #UCCLSummit2020 Tune in\u2026 https://t.co/Xi6lO1KAoO",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "UCCLSummit2020",
+     "indices": [
+      92,
+      107
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "UCdiverse",
+     "name": "UC Diversity",
+     "id": 1482800354,
+     "id_str": "1482800354",
+     "indices": [
+      81,
+      91
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/Xi6lO1KAoO",
+     "expanded_url": "https://twitter.com/i/web/status/1215344725537873920",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1215343760424390656,
+  "quoted_status_id_str": "1215343760424390656",
+  "quoted_status": {
+   "created_at": "Thu Jan 09 18:45:07 +0000 2020",
+   "id": 1215343760424390656,
+   "id_str": "1215343760424390656",
+   "text": "Vice Chancellor Oscar Dub\u00f3n from @UCBerkeley kicks off the UC Chicanx/Latinx Leadership Summit. Join us via livestr\u2026 https://t.co/iN1qUyjA0w",
+   "truncated": true,
+   "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+     {
+      "screen_name": "UCBerkeley",
+      "name": "UC Berkeley",
+      "id": 176932593,
+      "id_str": "176932593",
+      "indices": [
+       33,
+       44
+      ]
+     }
+    ],
+    "urls": [
+     {
+      "url": "https://t.co/iN1qUyjA0w",
+      "expanded_url": "https://twitter.com/i/web/status/1215343760424390656",
+      "display_url": "twitter.com/i/web/status/1\u2026",
+      "indices": [
+       117,
+       140
+      ]
+     }
+    ]
+   },
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 1482800354,
+    "id_str": "1482800354"
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "retweet_count": 1,
+   "favorite_count": 9,
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "lang": "en"
+  },
+  "retweet_count": 5,
+  "favorite_count": 22,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Thu Jan 09 16:42:47 +0000 2020",
+  "id": 1215312974035841024,
+  "id_str": "1215312974035841024",
+  "text": "@berkeleyside @PGE4Me Please follow Berkeley News for updates regarding campus power issues \u2014https://t.co/pUm3nzJ8Yz",
+  "truncated": false,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "berkeleyside",
+     "name": "Berkeleyside",
+     "id": 81982525,
+     "id_str": "81982525",
+     "indices": [
+      0,
+      13
+     ]
+    },
+    {
+     "screen_name": "PGE4Me",
+     "name": "PG&E",
+     "id": 31496613,
+     "id_str": "31496613",
+     "indices": [
+      14,
+      21
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/pUm3nzJ8Yz",
+     "expanded_url": "https://news.berkeley.edu/2020/01/09/some-campus-buildings-without-power/",
+     "display_url": "news.berkeley.edu/2020/01/09/som\u2026",
+     "indices": [
+      93,
+      116
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": 1215309531879624704,
+  "in_reply_to_status_id_str": "1215309531879624704",
+  "in_reply_to_user_id": 81982525,
+  "in_reply_to_user_id_str": "81982525",
+  "in_reply_to_screen_name": "berkeleyside",
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Thu Jan 09 16:23:25 +0000 2020",
+  "id": 1215308103341600771,
+  "id_str": "1215308103341600771",
+  "text": "The following buildings are affected by the power outage. Access and computer networking may also be affected \u2014 https://t.co/pUm3nzJ8Yz",
+  "truncated": false,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/pUm3nzJ8Yz",
+     "expanded_url": "https://news.berkeley.edu/2020/01/09/some-campus-buildings-without-power/",
+     "display_url": "news.berkeley.edu/2020/01/09/som\u2026",
+     "indices": [
+      112,
+      135
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": 1215307520559869952,
+  "in_reply_to_status_id_str": "1215307520559869952",
+  "in_reply_to_user_id": 176932593,
+  "in_reply_to_user_id_str": "176932593",
+  "in_reply_to_screen_name": "UCBerkeley",
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 8,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Thu Jan 09 16:21:06 +0000 2020",
+  "id": 1215307520559869952,
+  "id_str": "1215307520559869952",
+  "text": "Campus News: Campus is experiencing a partial power outage. @UCPD_Cal and facilities are responding. Stay tuned for\u2026 https://t.co/DUOADZDIWC",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "UCPD_Cal",
+     "name": "UC Police, Berkeley",
+     "id": 71143737,
+     "id_str": "71143737",
+     "indices": [
+      60,
+      69
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/DUOADZDIWC",
+     "expanded_url": "https://twitter.com/i/web/status/1215307520559869952",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1215294252403441664,
+  "quoted_status_id_str": "1215294252403441664",
+  "quoted_status": {
+   "created_at": "Thu Jan 09 15:28:23 +0000 2020",
+   "id": 1215294252403441664,
+   "id_str": "1215294252403441664",
+   "text": "UC Berkeley Campus is experiencing a partial power outage.  Please be aware that card key entrances and the compute\u2026 https://t.co/y5ad1XCbjB",
+   "truncated": true,
+   "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+     {
+      "url": "https://t.co/y5ad1XCbjB",
+      "expanded_url": "https://twitter.com/i/web/status/1215294252403441664",
+      "display_url": "twitter.com/i/web/status/1\u2026",
+      "indices": [
+       117,
+       140
+      ]
+     }
+    ]
+   },
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 71143737,
+    "id_str": "71143737"
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "retweet_count": 3,
+   "favorite_count": 5,
+   "favorited": false,
+   "retweeted": false,
+   "lang": "en"
+  },
+  "retweet_count": 7,
+  "favorite_count": 11,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Tue Jan 07 22:04:00 +0000 2020",
+  "id": 1214669037810147328,
+  "id_str": "1214669037810147328",
+  "text": "In the past, people relied on crushed stones &amp; dried leaves to concoct blue pigments. Alexopoulou teamed up with Be\u2026 https://t.co/xQwr2FfQbn",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/xQwr2FfQbn",
+     "expanded_url": "https://twitter.com/i/web/status/1214669037810147328",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      121,
+      144
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 9,
+  "favorite_count": 20,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Tue Jan 07 21:49:56 +0000 2020",
+  "id": 1214665495074328577,
+  "id_str": "1214665495074328577",
+  "text": "\u201cWhy focus only on deep-fakes and not the broader issue of intentionally misleading videos?\u201d  \u2014 Professor Hany Fari\u2026 https://t.co/CAs39aQN7w",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/CAs39aQN7w",
+     "expanded_url": "https://twitter.com/i/web/status/1214665495074328577",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1214603637755793409,
+  "quoted_status_id_str": "1214603637755793409",
+  "quoted_status": {
+   "created_at": "Tue Jan 07 17:44:08 +0000 2020",
+   "id": 1214603637755793409,
+   "id_str": "1214603637755793409",
+   "text": "Facebook's new deepfake policy: ban the high quality fake videos, keep the crappy ones.\n\"Why focus only on deep-fak\u2026 https://t.co/Usn2ddtiAa",
+   "truncated": true,
+   "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+     {
+      "url": "https://t.co/Usn2ddtiAa",
+      "expanded_url": "https://twitter.com/i/web/status/1214603637755793409",
+      "display_url": "twitter.com/i/web/status/1\u2026",
+      "indices": [
+       117,
+       140
+      ]
+     }
+    ]
+   },
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 54373762,
+    "id_str": "54373762"
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "retweet_count": 6,
+   "favorite_count": 9,
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "lang": "en"
+  },
+  "retweet_count": 2,
+  "favorite_count": 7,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Tue Jan 07 18:27:21 +0000 2020",
+  "id": 1214614514890629120,
+  "id_str": "1214614514890629120",
+  "text": "\"I do not believe that Berkeley is a bubble, as it is often called, but I do feel that in this campus we share a sm\u2026 https://t.co/yGX5zGsgwx",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/yGX5zGsgwx",
+     "expanded_url": "https://twitter.com/i/web/status/1214614514890629120",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 6,
+  "favorite_count": 32,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Mon Jan 06 20:11:59 +0000 2020",
+  "id": 1214278459159130120,
+  "id_str": "1214278459159130120",
+  "text": "Scientists have mapped 13 key emotions triggered when we listen to music \ud83c\udfb6 #BerkeleyResearch \n\n\u201cMusic is a universa\u2026 https://t.co/NI2Yd6edYS",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "BerkeleyResearch",
+     "indices": [
+      75,
+      92
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/NI2Yd6edYS",
+     "expanded_url": "https://twitter.com/i/web/status/1214278459159130120",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 26,
+  "favorite_count": 49,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Mon Jan 06 15:43:00 +0000 2020",
+  "id": 1214210769132412928,
+  "id_str": "1214210769132412928",
+  "text": "\ud83c\udfa7 #BerkeleyTalks: Artist Paul Chan on the \u2018Bather\u2019s Dilemma\u2019 \n\nChan explores the figure of the bather \u2014 a visual tr\u2026 https://t.co/DNGRQhJDa3",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "BerkeleyTalks",
+     "indices": [
+      2,
+      16
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/DNGRQhJDa3",
+     "expanded_url": "https://twitter.com/i/web/status/1214210769132412928",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 2,
+  "favorite_count": 10,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Fri Jan 03 21:04:50 +0000 2020",
+  "id": 1213204594316075008,
+  "id_str": "1213204594316075008",
+  "text": "Brain scans could flag children's future mental health problems #BerkeleyResearch \ud83e\udde0 https://t.co/p8NKdsvp5o",
+  "truncated": false,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "BerkeleyResearch",
+     "indices": [
+      64,
+      81
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/p8NKdsvp5o",
+     "expanded_url": "https://news.berkeley.edu/2020/01/03/brain-scans-childrens-mental-health/",
+     "display_url": "news.berkeley.edu/2020/01/03/bra\u2026",
+     "indices": [
+      84,
+      107
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 13,
+  "favorite_count": 22,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Fri Jan 03 16:04:01 +0000 2020",
+  "id": 1213128892254498816,
+  "id_str": "1213128892254498816",
+  "text": "\ud83c\udfa7 #BerkeleyTalks: Professor Emerita Beverly Crawford on lies about migrants \n\n\u201cWhat we have seen is the rise of the\u2026 https://t.co/9bHqJEfont",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "BerkeleyTalks",
+     "indices": [
+      2,
+      16
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/9bHqJEfont",
+     "expanded_url": "https://twitter.com/i/web/status/1213128892254498816",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 4,
+  "favorite_count": 15,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Thu Jan 02 19:47:01 +0000 2020",
+  "id": 1212822623463387136,
+  "id_str": "1212822623463387136",
+  "text": "\u201cSix degrees of #MarkTwain,\u201d has pulled from our vast collection of Twain\u2019s private writings &amp; manuscripts  to expl\u2026 https://t.co/Sommxh2uTh",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "MarkTwain",
+     "indices": [
+      16,
+      26
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/Sommxh2uTh",
+     "expanded_url": "https://twitter.com/i/web/status/1212822623463387136",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      121,
+      144
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 9,
+  "favorite_count": 29,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Thu Jan 02 17:35:34 +0000 2020",
+  "id": 1212789544489246721,
+  "id_str": "1212789544489246721",
+  "text": "\"UC Berkeley has always been part of the public sphere...It is a defining quality of our students that you do not s\u2026 https://t.co/ShqTwJdHno",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/ShqTwJdHno",
+     "expanded_url": "https://twitter.com/i/web/status/1212789544489246721",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 7,
+  "favorite_count": 38,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Wed Jan 01 16:40:02 +0000 2020",
+  "id": 1212413179285913601,
+  "id_str": "1212413179285913601",
+  "text": "Happy New Year, everyone! Our future awaits. \ud83c\udf1f #FiatLux #GoBears \ud83d\udc3b \n#berkeleypov by @frvnkyvng\n#ucberkeley\u2026 https://t.co/9VBz7LLLX0",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "FiatLux",
+     "indices": [
+      47,
+      55
+     ]
+    },
+    {
+     "text": "GoBears",
+     "indices": [
+      56,
+      64
+     ]
+    },
+    {
+     "text": "berkeleypov",
+     "indices": [
+      68,
+      80
+     ]
+    },
+    {
+     "text": "ucberkeley",
+     "indices": [
+      95,
+      106
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "frvnkyvng",
+     "name": "Frank Yang",
+     "id": 825117801635385353,
+     "id_str": "825117801635385353",
+     "indices": [
+      84,
+      94
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/9VBz7LLLX0",
+     "expanded_url": "https://twitter.com/i/web/status/1212413179285913601",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      108,
+      131
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 42,
+  "favorite_count": 252,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Tue Dec 31 23:06:02 +0000 2019",
+  "id": 1212147934298607618,
+  "id_str": "1212147934298607618",
+  "text": "Almost time to say goodbye to 2019. \ud83d\udc4b \ud83c\udf89 \n#berkeleypov by @kwang100\nEdited by UC Berkeley https://t.co/WzmnLjZcMY",
+  "truncated": false,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "berkeleypov",
+     "indices": [
+      41,
+      53
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "kwang100",
+     "name": "kim kwang hyun",
+     "id": 164880318,
+     "id_str": "164880318",
+     "indices": [
+      57,
+      66
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1212147925494763521,
+     "id_str": "1212147925494763521",
+     "indices": [
+      89,
+      112
+     ],
+     "media_url": "http://pbs.twimg.com/media/ENJqHbJXkAEkRvl.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/ENJqHbJXkAEkRvl.jpg",
+     "url": "https://t.co/WzmnLjZcMY",
+     "display_url": "pic.twitter.com/WzmnLjZcMY",
+     "expanded_url": "https://twitter.com/UCBerkeley/status/1212147934298607618/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 960,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 544,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1860,
+       "h": 1488,
+       "resize": "fit"
+      }
+     },
+     "features": {
+      "medium": {
+       "faces": []
+      },
+      "small": {
+       "faces": []
+      },
+      "orig": {
+       "faces": []
+      },
+      "large": {
+       "faces": []
+      }
+     }
+    }
+   ]
+  },
+  "extended_entities": {
+   "media": [
+    {
+     "id": 1212147925494763521,
+     "id_str": "1212147925494763521",
+     "indices": [
+      89,
+      112
+     ],
+     "media_url": "http://pbs.twimg.com/media/ENJqHbJXkAEkRvl.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/ENJqHbJXkAEkRvl.jpg",
+     "url": "https://t.co/WzmnLjZcMY",
+     "display_url": "pic.twitter.com/WzmnLjZcMY",
+     "expanded_url": "https://twitter.com/UCBerkeley/status/1212147934298607618/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 960,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 544,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1860,
+       "h": 1488,
+       "resize": "fit"
+      }
+     },
+     "features": {
+      "medium": {
+       "faces": []
+      },
+      "small": {
+       "faces": []
+      },
+      "orig": {
+       "faces": []
+      },
+      "large": {
+       "faces": []
+      }
+     }
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 11,
+  "favorite_count": 89,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Tue Dec 31 19:10:01 +0000 2019",
+  "id": 1212088536511516680,
+  "id_str": "1212088536511516680",
+  "text": "\u201cStaying true to your values and who you are will enable you to achieve a successful and rewarding life.\u201d \u2014 Robert\u2026 https://t.co/1Flqpnfngi",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/1Flqpnfngi",
+     "expanded_url": "https://twitter.com/i/web/status/1212088536511516680",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      116,
+      139
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 5,
+  "favorite_count": 25,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Tue Dec 31 18:10:42 +0000 2019",
+  "id": 1212073610032164867,
+  "id_str": "1212073610032164867",
+  "text": "The federal government has given @UofCalifornia a NYE's gift \u2014 our 20th U.S. patent on #CRISPR-Cas9 gene-editing te\u2026 https://t.co/QTVFV46m22",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "CRISPR",
+     "indices": [
+      87,
+      94
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "UofCalifornia",
+     "name": "UC",
+     "id": 89793645,
+     "id_str": "89793645",
+     "indices": [
+      33,
+      47
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/QTVFV46m22",
+     "expanded_url": "https://twitter.com/i/web/status/1212073610032164867",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 8,
+  "favorite_count": 56,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Thu Dec 26 14:53:10 +0000 2019",
+  "id": 1210211958865223680,
+  "id_str": "1210211958865223680",
+  "text": "Wrapping up 2019 and grateful for everything we've accomplished together! #1PublicUniversity #YearInReview \ud83c\udf89 #Video\u2026 https://t.co/zUsDsGJc41",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "1PublicUniversity",
+     "indices": [
+      74,
+      92
+     ]
+    },
+    {
+     "text": "YearInReview",
+     "indices": [
+      93,
+      106
+     ]
+    },
+    {
+     "text": "Video",
+     "indices": [
+      109,
+      115
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/zUsDsGJc41",
+     "expanded_url": "https://twitter.com/i/web/status/1210211958865223680",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 18,
+  "favorite_count": 70,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Thu Dec 26 00:04:01 +0000 2019",
+  "id": 1209988198585241607,
+  "id_str": "1209988198585241607",
+  "text": "Merry Christmas, everyone! \ud83c\udf1f #FiatLux\n#berkeleypov by @frvnkyvng #regram https://t.co/oIumyKSL5G",
+  "truncated": false,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "FiatLux",
+     "indices": [
+      29,
+      37
+     ]
+    },
+    {
+     "text": "berkeleypov",
+     "indices": [
+      38,
+      50
+     ]
+    },
+    {
+     "text": "regram",
+     "indices": [
+      65,
+      72
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "frvnkyvng",
+     "name": "Frank Yang",
+     "id": 825117801635385353,
+     "id_str": "825117801635385353",
+     "indices": [
+      54,
+      64
+     ]
+    }
+   ],
+   "urls": [],
+   "media": [
+    {
+     "id": 1209988195275939840,
+     "id_str": "1209988195275939840",
+     "indices": [
+      73,
+      96
+     ],
+     "media_url": "http://pbs.twimg.com/media/EMq92lHWoAAkmf6.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/EMq92lHWoAAkmf6.jpg",
+     "url": "https://t.co/oIumyKSL5G",
+     "display_url": "pic.twitter.com/oIumyKSL5G",
+     "expanded_url": "https://twitter.com/UCBerkeley/status/1209988198585241607/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 382,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1670,
+       "h": 939,
+       "resize": "fit"
+      }
+     },
+     "features": {
+      "orig": {
+       "faces": [
+        {
+         "x": 954,
+         "y": 35,
+         "h": 293,
+         "w": 293
+        }
+       ]
+      },
+      "small": {
+       "faces": [
+        {
+         "x": 388,
+         "y": 14,
+         "h": 119,
+         "w": 119
+        }
+       ]
+      },
+      "medium": {
+       "faces": [
+        {
+         "x": 685,
+         "y": 25,
+         "h": 210,
+         "w": 210
+        }
+       ]
+      },
+      "large": {
+       "faces": [
+        {
+         "x": 954,
+         "y": 35,
+         "h": 293,
+         "w": 293
+        }
+       ]
+      }
+     }
+    }
+   ]
+  },
+  "extended_entities": {
+   "media": [
+    {
+     "id": 1209988195275939840,
+     "id_str": "1209988195275939840",
+     "indices": [
+      73,
+      96
+     ],
+     "media_url": "http://pbs.twimg.com/media/EMq92lHWoAAkmf6.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/EMq92lHWoAAkmf6.jpg",
+     "url": "https://t.co/oIumyKSL5G",
+     "display_url": "pic.twitter.com/oIumyKSL5G",
+     "expanded_url": "https://twitter.com/UCBerkeley/status/1209988198585241607/photo/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "small": {
+       "w": 680,
+       "h": 382,
+       "resize": "fit"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1670,
+       "h": 939,
+       "resize": "fit"
+      }
+     },
+     "features": {
+      "orig": {
+       "faces": [
+        {
+         "x": 954,
+         "y": 35,
+         "h": 293,
+         "w": 293
+        }
+       ]
+      },
+      "small": {
+       "faces": [
+        {
+         "x": 388,
+         "y": 14,
+         "h": 119,
+         "w": 119
+        }
+       ]
+      },
+      "medium": {
+       "faces": [
+        {
+         "x": 685,
+         "y": 25,
+         "h": 210,
+         "w": 210
+        }
+       ]
+      },
+      "large": {
+       "faces": [
+        {
+         "x": 954,
+         "y": 35,
+         "h": 293,
+         "w": 293
+        }
+       ]
+      }
+     }
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 27,
+  "favorite_count": 197,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Tue Dec 24 19:03:00 +0000 2019",
+  "id": 1209550057940377600,
+  "id_str": "1209550057940377600",
+  "text": "\u201cFrom the moment I stepped on campus, I encountered sharp debates about the issues of the day. I was forced to cons\u2026 https://t.co/iQItiTqa6Q",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/iQItiTqa6Q",
+     "expanded_url": "https://twitter.com/i/web/status/1209550057940377600",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 4,
+  "favorite_count": 24,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Mon Dec 23 18:01:01 +0000 2019",
+  "id": 1209172069256253440,
+  "id_str": "1209172069256253440",
+  "text": "When we weren't embarking on new ventures, we were making discoveries \u2014 from a graduate student disproving a \u201cmonst\u2026 https://t.co/Tzqcp9pvjO",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/Tzqcp9pvjO",
+     "expanded_url": "https://twitter.com/i/web/status/1209172069256253440",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 3,
+  "favorite_count": 11,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Mon Dec 23 17:49:02 +0000 2019",
+  "id": 1209169053006356480,
+  "id_str": "1209169053006356480",
+  "text": "\ud83c\udfa7 #BerkeleyTalks: Ruth Bader Ginsburg talks about the challenges she faced as a woman in a male-dominated field, ho\u2026 https://t.co/36uaUhJsyz",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "BerkeleyTalks",
+     "indices": [
+      2,
+      16
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/36uaUhJsyz",
+     "expanded_url": "https://twitter.com/i/web/status/1209169053006356480",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 6,
+  "favorite_count": 43,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Sun Dec 22 17:35:01 +0000 2019",
+  "id": 1208803138167353347,
+  "id_str": "1208803138167353347",
+  "text": "In a year-end #CampusConversation, Chancellor Christ cited the building program &amp; the urgent requirements of campus\u2026 https://t.co/ezfrkToBIS",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "CampusConversation",
+     "indices": [
+      14,
+      33
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/ezfrkToBIS",
+     "expanded_url": "https://twitter.com/i/web/status/1208803138167353347",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      121,
+      144
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 4,
+  "favorite_count": 17,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Sun Dec 22 16:19:00 +0000 2019",
+  "id": 1208784010039693314,
+  "id_str": "1208784010039693314",
+  "text": "\u201cIt is a defining quality of our students that you do not sit idly by when you see struggle or injustice, whether i\u2026 https://t.co/xYa7eFOa81",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/xYa7eFOa81",
+     "expanded_url": "https://twitter.com/i/web/status/1208784010039693314",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 4,
+  "favorite_count": 29,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Sun Dec 22 05:40:00 +0000 2019",
+  "id": 1208623198943752193,
+  "id_str": "1208623198943752193",
+  "text": "\u201cMay the education you have received here serve not just yourselves, but your society, well. The world is now yours\u2026 https://t.co/fEJEPKI3Er",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/fEJEPKI3Er",
+     "expanded_url": "https://twitter.com/i/web/status/1208623198943752193",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 22,
+  "favorite_count": 98,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Sat Dec 21 17:00:19 +0000 2019",
+  "id": 1208432020415746049,
+  "id_str": "1208432020415746049",
+  "text": "Congratulations graduates! \ud83c\udf93\ud83d\udc3b Tune into our winter commencement #livestream to celebrate the Class of 2019! \ud83c\udf89\u2026 https://t.co/o7I0l7smmv",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "livestream",
+     "indices": [
+      64,
+      75
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/o7I0l7smmv",
+     "expanded_url": "https://twitter.com/i/web/status/1208432020415746049",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      111,
+      134
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 5,
+  "favorite_count": 35,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Fri Dec 20 21:53:57 +0000 2019",
+  "id": 1208143526690742277,
+  "id_str": "1208143526690742277",
+  "text": "It was a year of honoring the past and celebrating new beginnings. Here\u2019s a look back at Berkeley\u2019s #topstories of\u2026 https://t.co/LiYW2anNMN",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "topstories",
+     "indices": [
+      100,
+      111
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/LiYW2anNMN",
+     "expanded_url": "https://twitter.com/i/web/status/1208143526690742277",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      116,
+      139
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 6,
+  "favorite_count": 20,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Fri Dec 20 06:50:02 +0000 2019",
+  "id": 1207916046340042752,
+  "id_str": "1207916046340042752",
+  "text": "Reinventing Reality @berkeleyscience is an exciting new immersive exhibition where you can explore the science, cre\u2026 https://t.co/cVWwrpNeOr",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "berkeleyscience",
+     "name": "Berkeley Science",
+     "id": 61902439,
+     "id_str": "61902439",
+     "indices": [
+      20,
+      36
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/cVWwrpNeOr",
+     "expanded_url": "https://twitter.com/i/web/status/1207916046340042752",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 5,
+  "favorite_count": 8,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Fri Dec 20 03:19:24 +0000 2019",
+  "id": 1207863039145336832,
+  "id_str": "1207863039145336832",
+  "text": "Roll on you bears! @RedboxBowl https://t.co/LQG0YynEwK",
+  "truncated": false,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "RedboxBowl",
+     "name": "Redbox Bowl",
+     "id": 164757075,
+     "id_str": "164757075",
+     "indices": [
+      19,
+      30
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/LQG0YynEwK",
+     "expanded_url": "https://twitter.com/CalAthletics/status/1207728028844822528",
+     "display_url": "twitter.com/CalAthletics/s\u2026",
+     "indices": [
+      31,
+      54
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1207728028844822528,
+  "quoted_status_id_str": "1207728028844822528",
+  "quoted_status": {
+   "created_at": "Thu Dec 19 18:22:55 +0000 2019",
+   "id": 1207728028844822528,
+   "id_str": "1207728028844822528",
+   "text": "Join us for the Official Cal Tailgate at the @RedboxBowl!\n\n\u23f0 10:00am - 12:30pm \n\nFood, beverages, and entertainment\u2026 https://t.co/JU8p05nHXG",
+   "truncated": true,
+   "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+     {
+      "screen_name": "RedboxBowl",
+      "name": "Redbox Bowl",
+      "id": 164757075,
+      "id_str": "164757075",
+      "indices": [
+       45,
+       56
+      ]
+     }
+    ],
+    "urls": [
+     {
+      "url": "https://t.co/JU8p05nHXG",
+      "expanded_url": "https://twitter.com/i/web/status/1207728028844822528",
+      "display_url": "twitter.com/i/web/status/1\u2026",
+      "indices": [
+       117,
+       140
+      ]
+     }
+    ]
+   },
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 50545304,
+    "id_str": "50545304"
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "retweet_count": 7,
+   "favorite_count": 47,
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "lang": "en"
+  },
+  "retweet_count": 4,
+  "favorite_count": 39,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Thu Dec 19 18:29:51 +0000 2019",
+  "id": 1207729773956489216,
+  "id_str": "1207729773956489216",
+  "text": "Seven companies a year will graduate from @BerkeleySkyDeck and begin work in Sacramento under a first-of-its-kind m\u2026 https://t.co/YXBVAcGeh2",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BerkeleySkydeck",
+     "name": "Berkeley Skydeck",
+     "id": 407881794,
+     "id_str": "407881794",
+     "indices": [
+      42,
+      58
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/YXBVAcGeh2",
+     "expanded_url": "https://twitter.com/i/web/status/1207729773956489216",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 5,
+  "favorite_count": 8,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Wed Dec 18 23:31:42 +0000 2019",
+  "id": 1207443350078418944,
+  "id_str": "1207443350078418944",
+  "text": "Any effort to increase teacher diversity has to focus as much on what happens after teachers reach the classroom as\u2026 https://t.co/N0GfK2ki1k",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/N0GfK2ki1k",
+     "expanded_url": "https://twitter.com/i/web/status/1207443350078418944",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1207423610064904192,
+  "quoted_status_id_str": "1207423610064904192",
+  "quoted_status": {
+   "created_at": "Wed Dec 18 22:13:16 +0000 2019",
+   "id": 1207423610064904192,
+   "id_str": "1207423610064904192",
+   "text": "\u201cPolicymakers say, \u2018Let's just create a fancy recruitment initiative, bring them all in. But if the house is burnin\u2026 https://t.co/taSiSFv6cV",
+   "truncated": true,
+   "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+     {
+      "url": "https://t.co/taSiSFv6cV",
+      "expanded_url": "https://twitter.com/i/web/status/1207423610064904192",
+      "display_url": "twitter.com/i/web/status/1\u2026",
+      "indices": [
+       117,
+       140
+      ]
+     }
+    ]
+   },
+   "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 390357026,
+    "id_str": "390357026"
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "retweet_count": 8,
+   "favorite_count": 9,
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "lang": "en"
+  },
+  "retweet_count": 4,
+  "favorite_count": 14,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Wed Dec 18 16:22:01 +0000 2019",
+  "id": 1207335217473695745,
+  "id_str": "1207335217473695745",
+  "text": "\ud83c\udfa7 #FiatVox: Kai works to promote his nonprofit &amp; mental health curriculum \u2014 something that he\u2019s become passionate a\u2026 https://t.co/UTi1k5jbiO",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "FiatVox",
+     "indices": [
+      2,
+      10
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/UTi1k5jbiO",
+     "expanded_url": "https://twitter.com/i/web/status/1207335217473695745",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      121,
+      144
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 6,
+  "favorite_count": 26,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Tue Dec 17 23:49:53 +0000 2019",
+  "id": 1207085537657573377,
+  "id_str": "1207085537657573377",
+  "text": "Impeachment puts GOP\u2019s divisive tactics center-stage, says Berkeley expert\n\n\"The current impeachment debate is both\u2026 https://t.co/ejAYZr6KWo",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/ejAYZr6KWo",
+     "expanded_url": "https://twitter.com/i/web/status/1207085537657573377",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 4,
+  "favorite_count": 16,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Tue Dec 17 19:43:01 +0000 2019",
+  "id": 1207023411312152577,
+  "id_str": "1207023411312152577",
+  "text": "\ud83c\udfa7 #BerkeleyTalks: Chemerinsky @BerkeleyLaw and @RBReich @GoldmanSchool discuss what the mechanisms are for removing\u2026 https://t.co/cLgCI11sdp",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "BerkeleyTalks",
+     "indices": [
+      2,
+      16
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "BerkeleyLaw",
+     "name": "UC Berkeley Law",
+     "id": 65151012,
+     "id_str": "65151012",
+     "indices": [
+      30,
+      42
+     ]
+    },
+    {
+     "screen_name": "RBReich",
+     "name": "Robert Reich",
+     "id": 148529707,
+     "id_str": "148529707",
+     "indices": [
+      47,
+      55
+     ]
+    },
+    {
+     "screen_name": "GoldmanSchool",
+     "name": "Goldman School",
+     "id": 42937124,
+     "id_str": "42937124",
+     "indices": [
+      56,
+      70
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/cLgCI11sdp",
+     "expanded_url": "https://twitter.com/i/web/status/1207023411312152577",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 7,
+  "favorite_count": 14,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Mon Dec 16 23:31:30 +0000 2019",
+  "id": 1206718521914404864,
+  "id_str": "1206718521914404864",
+  "text": "Berkeley student throws cold water on \u2018monster\u2019 black hole discovery\n\nSometimes, a blockbuster discovery is just to\u2026 https://t.co/zl68zAmhNp",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/zl68zAmhNp",
+     "expanded_url": "https://twitter.com/i/web/status/1206718521914404864",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 13,
+  "favorite_count": 61,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Mon Dec 16 01:29:09 +0000 2019",
+  "id": 1206385742479548422,
+  "id_str": "1206385742479548422",
+  "text": "Berkeley\u2019s landmark @ClaremontHotel lit its tower blue &amp; gold in honor of @Cal and our first chancellor Clark Kerr.\u2026 https://t.co/hcKcoJa1my",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ClaremontHotel",
+     "name": "Claremont Club & Spa",
+     "id": 38485426,
+     "id_str": "38485426",
+     "indices": [
+      20,
+      35
+     ]
+    },
+    {
+     "screen_name": "Cal",
+     "name": "Cal",
+     "id": 17445752,
+     "id_str": "17445752",
+     "indices": [
+      78,
+      82
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/hcKcoJa1my",
+     "expanded_url": "https://twitter.com/i/web/status/1206385742479548422",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      121,
+      144
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 15,
+  "favorite_count": 78,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Sat Dec 14 18:17:00 +0000 2019",
+  "id": 1205914602665582594,
+  "id_str": "1205914602665582594",
+  "text": "Berkeley researchers are highlighting preventable causes of health problems that plague minority communities in CA,\u2026 https://t.co/ei23oDg61p",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/ei23oDg61p",
+     "expanded_url": "https://twitter.com/i/web/status/1205914602665582594",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 16,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Fri Dec 13 16:47:02 +0000 2019",
+  "id": 1205529571862491138,
+  "id_str": "1205529571862491138",
+  "text": "Still, impeachment may be a necessary exercise in accountability after other efforts to check the president\u2019s actio\u2026 https://t.co/yj989eILxj",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/yj989eILxj",
+     "expanded_url": "https://twitter.com/i/web/status/1205529571862491138",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 9,
+  "favorite_count": 17,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Fri Dec 13 16:10:02 +0000 2019",
+  "id": 1205520262839574528,
+  "id_str": "1205520262839574528",
+  "text": "Awe makes us more humble, which in turn makes it easier for us to get along with people with whom we might disagree\u2026 https://t.co/5WodMsOqvM",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/5WodMsOqvM",
+     "expanded_url": "https://twitter.com/i/web/status/1205520262839574528",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 5,
+  "favorite_count": 11,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Fri Dec 13 15:57:47 +0000 2019",
+  "id": 1205517180156014593,
+  "id_str": "1205517180156014593",
+  "text": "Berkeley engineers have developed a mineral-coated sand that can soak up toxic metals like lead and cadmium from wa\u2026 https://t.co/evbFNkHdvQ",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/evbFNkHdvQ",
+     "expanded_url": "https://twitter.com/i/web/status/1205517180156014593",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 5,
+  "favorite_count": 25,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Thu Dec 12 20:42:04 +0000 2019",
+  "id": 1205226333384695809,
+  "id_str": "1205226333384695809",
+  "text": "Sign up for our weekly #CriticsChoice email to receive a list of the coming week's campus events. This curated list\u2026 https://t.co/uhCVGLwBPH",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "CriticsChoice",
+     "indices": [
+      23,
+      37
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/uhCVGLwBPH",
+     "expanded_url": "https://twitter.com/i/web/status/1205226333384695809",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+   "id": "5ef5b7f391e30aff",
+   "url": "https://api.twitter.com/1.1/geo/id/5ef5b7f391e30aff.json",
+   "place_type": "city",
+   "name": "Berkeley",
+   "full_name": "Berkeley, CA",
+   "country_code": "US",
+   "country": "United States",
+   "contained_within": [],
+   "bounding_box": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -122.324818,
+       37.8459532
+      ],
+      [
+       -122.234225,
+       37.8459532
+      ],
+      [
+       -122.234225,
+       37.905738
+      ],
+      [
+       -122.324818,
+       37.905738
+      ]
+     ]
+    ]
+   },
+   "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 11,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Thu Dec 12 14:50:01 +0000 2019",
+  "id": 1205137736929304576,
+  "id_str": "1205137736929304576",
+  "text": "For some, 5G is a miracle network that will bring speed, abundance, and possibility throughout our physical world.\u2026 https://t.co/H4pBk3CKKe",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/H4pBk3CKKe",
+     "expanded_url": "https://twitter.com/i/web/status/1205137736929304576",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      116,
+      139
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 3,
+  "favorite_count": 15,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Wed Dec 11 18:54:57 +0000 2019",
+  "id": 1204836988324601860,
+  "id_str": "1204836988324601860",
+  "text": "Heat energy, in the form of molecular vibrations, can flow from a hot membrane to a cold membrane even in a complet\u2026 https://t.co/LrxigFTljV",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/LrxigFTljV",
+     "expanded_url": "https://twitter.com/i/web/status/1204836988324601860",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 6,
+  "favorite_count": 18,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Tue Dec 10 23:46:59 +0000 2019",
+  "id": 1204548094743863296,
+  "id_str": "1204548094743863296",
+  "text": "\"...when you remove that inflammatory fog, within days the aged brain acts like a young brain. It is a really, real\u2026 https://t.co/cKGaxWh0E6",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/cKGaxWh0E6",
+     "expanded_url": "https://twitter.com/i/web/status/1204548094743863296",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": 1202311779742896129,
+  "in_reply_to_status_id_str": "1202311779742896129",
+  "in_reply_to_user_id": 176932593,
+  "in_reply_to_user_id_str": "176932593",
+  "in_reply_to_screen_name": "UCBerkeley",
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 7,
+  "favorite_count": 20,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Mon Dec 09 22:04:49 +0000 2019",
+  "id": 1204159995396448264,
+  "id_str": "1204159995396448264",
+  "text": "The number of women graduating with degrees in #computerscience &amp; electrical engineering &amp; computer science (EECS)\u2026 https://t.co/Cul9f4ZHYG",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "computerscience",
+     "indices": [
+      47,
+      63
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/Cul9f4ZHYG",
+     "expanded_url": "https://twitter.com/i/web/status/1204159995396448264",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      124,
+      147
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 31,
+  "favorite_count": 98,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Mon Dec 09 19:52:11 +0000 2019",
+  "id": 1204126616403632129,
+  "id_str": "1204126616403632129",
+  "text": "\"Rapid and remote assessment methods\u2014such as social media analytics and satellite data\u2014are changing the way disaste\u2026 https://t.co/sDNMSsTMBu",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/sDNMSsTMBu",
+     "expanded_url": "https://twitter.com/i/web/status/1204126616403632129",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1202603940237455360,
+  "quoted_status_id_str": "1202603940237455360",
+  "quoted_status": {
+   "created_at": "Thu Dec 05 15:01:37 +0000 2019",
+   "id": 1202603940237455360,
+   "id_str": "1202603940237455360",
+   "text": "Natural disasters are costing the world half a trillion dollars per year, with up to 26M people being pushed into p\u2026 https://t.co/KmnwLm2mAO",
+   "truncated": true,
+   "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+     {
+      "url": "https://t.co/KmnwLm2mAO",
+      "expanded_url": "https://twitter.com/i/web/status/1202603940237455360",
+      "display_url": "twitter.com/i/web/status/1\u2026",
+      "indices": [
+       117,
+       140
+      ]
+     }
+    ]
+   },
+   "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 385621302,
+    "id_str": "385621302"
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "retweet_count": 5,
+   "favorite_count": 5,
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "lang": "en"
+  },
+  "retweet_count": 4,
+  "favorite_count": 11,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Mon Dec 09 18:36:47 +0000 2019",
+  "id": 1204107639161909248,
+  "id_str": "1204107639161909248",
+  "text": "A 2017 report found that out of all social media platforms, Instagram was ranked the worst for adolescents\u2019 emotion\u2026 https://t.co/gYxWRIztgu",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/gYxWRIztgu",
+     "expanded_url": "https://twitter.com/i/web/status/1204107639161909248",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id": 1204104687881994246,
+  "quoted_status_id_str": "1204104687881994246",
+  "quoted_status": {
+   "created_at": "Mon Dec 09 18:25:03 +0000 2019",
+   "id": 1204104687881994246,
+   "id_str": "1204104687881994246",
+   "text": "\"What does Instagram want the platform to be?\"\n\nSenior #UX Researcher @Google and I School alumnus @gpanger discuss\u2026 https://t.co/MvLT4uq1Lw",
+   "truncated": true,
+   "entities": {
+    "hashtags": [
+     {
+      "text": "UX",
+      "indices": [
+       55,
+       58
+      ]
+     }
+    ],
+    "symbols": [],
+    "user_mentions": [
+     {
+      "screen_name": "Google",
+      "name": "Google",
+      "id": 20536157,
+      "id_str": "20536157",
+      "indices": [
+       70,
+       77
+      ]
+     },
+     {
+      "screen_name": "gpanger",
+      "name": "Galen Panger \u2615\ufe0f",
+      "id": 13126022,
+      "id_str": "13126022",
+      "indices": [
+       99,
+       107
+      ]
+     }
+    ],
+    "urls": [
+     {
+      "url": "https://t.co/MvLT4uq1Lw",
+      "expanded_url": "https://twitter.com/i/web/status/1204104687881994246",
+      "display_url": "twitter.com/i/web/status/1\u2026",
+      "indices": [
+       117,
+       140
+      ]
+     }
+    ]
+   },
+   "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 263020833,
+    "id_str": "263020833"
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "retweet_count": 1,
+   "favorite_count": 8,
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "lang": "en"
+  },
+  "retweet_count": 9,
+  "favorite_count": 25,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Mon Dec 09 18:08:38 +0000 2019",
+  "id": 1204100556085575680,
+  "id_str": "1204100556085575680",
+  "text": "\u201cWhen planting fields, we should be thinking about how what we do \u2014 whether it is age structuring of crops or monoc\u2026 https://t.co/BgHzbcxT4h",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/BgHzbcxT4h",
+     "expanded_url": "https://twitter.com/i/web/status/1204100556085575680",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": 1203047472085508096,
+  "in_reply_to_status_id_str": "1203047472085508096",
+  "in_reply_to_user_id": 176932593,
+  "in_reply_to_user_id_str": "176932593",
+  "in_reply_to_screen_name": "UCBerkeley",
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 3,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Sun Dec 08 16:37:00 +0000 2019",
+  "id": 1203715108934955008,
+  "id_str": "1203715108934955008",
+  "text": "\u201cSo many children wish for an education w/no limitation, but they live in a nation where little boys learn about wa\u2026 https://t.co/MOARBTmVLZ",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/MOARBTmVLZ",
+     "expanded_url": "https://twitter.com/i/web/status/1203715108934955008",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 6,
+  "favorite_count": 16,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Sat Dec 07 18:23:00 +0000 2019",
+  "id": 1203379396993863682,
+  "id_str": "1203379396993863682",
+  "text": "\u201c\u2019The Long Shadow\u2019 touches on critical themes that all Americans need to understand about the enduring harms of sla\u2026 https://t.co/4vDj6g3d8u",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/4vDj6g3d8u",
+     "expanded_url": "https://twitter.com/i/web/status/1203379396993863682",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 176932593,
+   "id_str": "176932593"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 4,
+  "favorite_count": 10,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ }
+]
