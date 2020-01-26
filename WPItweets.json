@@ -1,5 +1,174 @@
 [
  {
+  "created_at": "Sat Jan 25 20:11:02 +0000 2020",
+  "id": 1221163589752512512,
+  "id_str": "1221163589752512512",
+  "text": "Using $2M grant from @Energy, @TimkoEnergyLab is working on #research to one day enable energy-producing companies\u2026 https://t.co/gP4i0IGxze",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "research",
+     "indices": [
+      60,
+      69
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [
+    {
+     "screen_name": "ENERGY",
+     "name": "Energy Department",
+     "id": 166252256,
+     "id_str": "166252256",
+     "indices": [
+      21,
+      28
+     ]
+    },
+    {
+     "screen_name": "TimkoEnergyLab",
+     "name": "Michael Timko",
+     "id": 1182360373078282240,
+     "id_str": "1182360373078282240",
+     "indices": [
+      30,
+      45
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/gP4i0IGxze",
+     "expanded_url": "https://twitter.com/i/web/status/1221163589752512512",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      116,
+      139
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 16687357,
+   "id_str": "16687357"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 2,
+  "favorite_count": 3,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Sat Jan 25 12:20:01 +0000 2020",
+  "id": 1221045054539796485,
+  "id_str": "1221045054539796485",
+  "text": "For Barry Siff \u201976, following in the footsteps of his brother Fred \u201964 to WPI, seemed a clear, comfortable choice.\u2026 https://t.co/3ijndLLf6U",
+  "truncated": true,
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/3ijndLLf6U",
+     "expanded_url": "https://twitter.com/i/web/status/1221045054539796485",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      116,
+      139
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 16687357,
+   "id_str": "16687357"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
+  "created_at": "Fri Jan 24 19:22:02 +0000 2020",
+  "id": 1220788869458800640,
+  "id_str": "1220788869458800640",
+  "text": "Join us Wednesday, February 5 from 12-1pm in Fuller, Lower Perreault Hall for our next #CriticalConversation.\u2026 https://t.co/2MP3SYyeX4",
+  "truncated": true,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "CriticalConversation",
+     "indices": [
+      87,
+      108
+     ]
+    }
+   ],
+   "symbols": [],
+   "user_mentions": [],
+   "urls": [
+    {
+     "url": "https://t.co/2MP3SYyeX4",
+     "expanded_url": "https://twitter.com/i/web/status/1220788869458800640",
+     "display_url": "twitter.com/i/web/status/1\u2026",
+     "indices": [
+      111,
+      134
+     ]
+    }
+   ]
+  },
+  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 16687357,
+   "id_str": "16687357"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 2,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+ },
+ {
   "created_at": "Fri Jan 24 17:36:03 +0000 2020",
   "id": 1220762197992910853,
   "id_str": "1220762197992910853",
@@ -45,7 +214,7 @@
   "contributors": null,
   "is_quote_status": false,
   "retweet_count": 1,
-  "favorite_count": 2,
+  "favorite_count": 16,
   "favorited": false,
   "retweeted": false,
   "possibly_sensitive": false,
@@ -287,14 +456,14 @@
    "contributors": null,
    "is_quote_status": false,
    "retweet_count": 1,
-   "favorite_count": 3,
+   "favorite_count": 5,
    "favorited": false,
    "retweeted": false,
    "possibly_sensitive": false,
    "lang": "en"
   },
   "retweet_count": 1,
-  "favorite_count": 5,
+  "favorite_count": 8,
   "favorited": false,
   "retweeted": false,
   "possibly_sensitive": false,
@@ -595,7 +764,7 @@
    "contributors": null,
    "is_quote_status": false,
    "retweet_count": 1,
-   "favorite_count": 3,
+   "favorite_count": 6,
    "favorited": false,
    "retweeted": false,
    "possibly_sensitive": false,
@@ -690,7 +859,7 @@
   "contributors": null,
   "is_quote_status": false,
   "retweet_count": 2,
-  "favorite_count": 6,
+  "favorite_count": 7,
   "favorited": false,
   "retweeted": false,
   "possibly_sensitive": false,
@@ -792,7 +961,7 @@
    "contributors": null,
    "is_quote_status": false,
    "retweet_count": 1,
-   "favorite_count": 3,
+   "favorite_count": 5,
    "favorited": false,
    "retweeted": false,
    "possibly_sensitive": false,
@@ -851,7 +1020,7 @@
   "contributors": null,
   "is_quote_status": false,
   "retweet_count": 0,
-  "favorite_count": 0,
+  "favorite_count": 1,
   "favorited": false,
   "retweeted": false,
   "possibly_sensitive": false,
@@ -2815,7 +2984,7 @@
   "contributors": null,
   "is_quote_status": false,
   "retweet_count": 2,
-  "favorite_count": 10,
+  "favorite_count": 11,
   "favorited": false,
   "retweeted": false,
   "possibly_sensitive": false,
@@ -2887,8 +3056,8 @@
   "place": null,
   "contributors": null,
   "is_quote_status": false,
-  "retweet_count": 1,
-  "favorite_count": 3,
+  "retweet_count": 3,
+  "favorite_count": 4,
   "favorited": false,
   "retweeted": false,
   "possibly_sensitive": false,
@@ -3070,7 +3239,7 @@
   "contributors": null,
   "is_quote_status": false,
   "retweet_count": 8,
-  "favorite_count": 33,
+  "favorite_count": 35,
   "favorited": false,
   "retweeted": false,
   "possibly_sensitive": false,
@@ -3326,8 +3495,8 @@
    "place": null,
    "contributors": null,
    "is_quote_status": false,
-   "retweet_count": 295,
-   "favorite_count": 1837,
+   "retweet_count": 296,
+   "favorite_count": 1840,
    "favorited": false,
    "retweeted": false,
    "possibly_sensitive": false,
@@ -16623,7 +16792,7 @@
        },
        "protected": false,
        "followers_count": 5140,
-       "friends_count": 527,
+       "friends_count": 526,
        "listed_count": 447,
        "created_at": "Wed Jan 07 20:06:36 +0000 2009",
        "favourites_count": 492,
@@ -17946,433 +18115,6 @@
   "is_quote_status": false,
   "retweet_count": 1,
   "favorite_count": 13,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en"
- },
- {
-  "created_at": "Tue Dec 10 16:17:02 +0000 2019",
-  "id": 1204434860384964609,
-  "id_str": "1204434860384964609",
-  "text": "The U.S. government is making substantial investments in neuroscience,\" says @WPIJagan\u2014graduates of WPI's MS progra\u2026 https://t.co/1YUorb0Qeg",
-  "truncated": true,
-  "entities": {
-   "hashtags": [],
-   "symbols": [],
-   "user_mentions": [
-    {
-     "screen_name": "WpiJagan",
-     "name": "Jagan Srinivasan",
-     "id": 974742575054839808,
-     "id_str": "974742575054839808",
-     "indices": [
-      77,
-      86
-     ]
-    }
-   ],
-   "urls": [
-    {
-     "url": "https://t.co/1YUorb0Qeg",
-     "expanded_url": "https://twitter.com/i/web/status/1204434860384964609",
-     "display_url": "twitter.com/i/web/status/1\u2026",
-     "indices": [
-      117,
-      140
-     ]
-    }
-   ]
-  },
-  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
-  "user": {
-   "id": 16687357,
-   "id_str": "16687357"
-  },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "is_quote_status": false,
-  "retweet_count": 2,
-  "favorite_count": 7,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en"
- },
- {
-  "created_at": "Tue Dec 10 14:54:02 +0000 2019",
-  "id": 1204413970527817728,
-  "id_str": "1204413970527817728",
-  "text": "A study by WPI researchers and @csircftri shows that #probiotic #yeasts are an effective treatment for drug-resista\u2026 https://t.co/wFzeugpuMO",
-  "truncated": true,
-  "entities": {
-   "hashtags": [
-    {
-     "text": "probiotic",
-     "indices": [
-      53,
-      63
-     ]
-    },
-    {
-     "text": "yeasts",
-     "indices": [
-      64,
-      71
-     ]
-    }
-   ],
-   "symbols": [],
-   "user_mentions": [
-    {
-     "screen_name": "csircftri",
-     "name": "CSIR-CFTRI",
-     "id": 2833839019,
-     "id_str": "2833839019",
-     "indices": [
-      31,
-      41
-     ]
-    }
-   ],
-   "urls": [
-    {
-     "url": "https://t.co/wFzeugpuMO",
-     "expanded_url": "https://twitter.com/i/web/status/1204413970527817728",
-     "display_url": "twitter.com/i/web/status/1\u2026",
-     "indices": [
-      117,
-      140
-     ]
-    }
-   ]
-  },
-  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
-  "user": {
-   "id": 16687357,
-   "id_str": "16687357"
-  },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "is_quote_status": false,
-  "retweet_count": 0,
-  "favorite_count": 4,
-  "favorited": false,
-  "retweeted": false,
-  "possibly_sensitive": false,
-  "lang": "en"
- },
- {
-  "created_at": "Tue Dec 10 13:56:01 +0000 2019",
-  "id": 1204399373121212416,
-  "id_str": "1204399373121212416",
-  "text": "How can math and baseball create new research? Read what our undergrads have to say. https://t.co/K2BtoCLNs3 https://t.co/GubFQv3iTo",
-  "truncated": false,
-  "entities": {
-   "hashtags": [],
-   "symbols": [],
-   "user_mentions": [],
-   "urls": [
-    {
-     "url": "https://t.co/K2BtoCLNs3",
-     "expanded_url": "http://wpi.today/UG-WIP",
-     "display_url": "wpi.today/UG-WIP",
-     "indices": [
-      85,
-      108
-     ]
-    }
-   ],
-   "media": [
-    {
-     "id": 1204399368360644608,
-     "id_str": "1204399368360644608",
-     "indices": [
-      109,
-      132
-     ],
-     "media_url": "http://pbs.twimg.com/media/ELbi2CbXUAASC-O.jpg",
-     "media_url_https": "https://pbs.twimg.com/media/ELbi2CbXUAASC-O.jpg",
-     "url": "https://t.co/GubFQv3iTo",
-     "display_url": "pic.twitter.com/GubFQv3iTo",
-     "expanded_url": "https://twitter.com/WPI/status/1204399373121212416/photo/1",
-     "type": "photo",
-     "sizes": {
-      "thumb": {
-       "w": 150,
-       "h": 150,
-       "resize": "crop"
-      },
-      "small": {
-       "w": 680,
-       "h": 392,
-       "resize": "fit"
-      },
-      "medium": {
-       "w": 1000,
-       "h": 576,
-       "resize": "fit"
-      },
-      "large": {
-       "w": 1000,
-       "h": 576,
-       "resize": "fit"
-      }
-     },
-     "features": {
-      "small": {
-       "faces": [
-        {
-         "x": 82,
-         "y": 70,
-         "h": 23,
-         "w": 23
-        },
-        {
-         "x": 229,
-         "y": 90,
-         "h": 45,
-         "w": 45
-        },
-        {
-         "x": 361,
-         "y": 108,
-         "h": 44,
-         "w": 44
-        }
-       ]
-      },
-      "medium": {
-       "faces": [
-        {
-         "x": 121,
-         "y": 103,
-         "h": 35,
-         "w": 35
-        },
-        {
-         "x": 337,
-         "y": 133,
-         "h": 67,
-         "w": 67
-        },
-        {
-         "x": 532,
-         "y": 159,
-         "h": 66,
-         "w": 66
-        }
-       ]
-      },
-      "large": {
-       "faces": [
-        {
-         "x": 121,
-         "y": 103,
-         "h": 35,
-         "w": 35
-        },
-        {
-         "x": 337,
-         "y": 133,
-         "h": 67,
-         "w": 67
-        },
-        {
-         "x": 532,
-         "y": 159,
-         "h": 66,
-         "w": 66
-        }
-       ]
-      },
-      "orig": {
-       "faces": [
-        {
-         "x": 121,
-         "y": 103,
-         "h": 35,
-         "w": 35
-        },
-        {
-         "x": 337,
-         "y": 133,
-         "h": 67,
-         "w": 67
-        },
-        {
-         "x": 532,
-         "y": 159,
-         "h": 66,
-         "w": 66
-        }
-       ]
-      }
-     }
-    }
-   ]
-  },
-  "extended_entities": {
-   "media": [
-    {
-     "id": 1204399368360644608,
-     "id_str": "1204399368360644608",
-     "indices": [
-      109,
-      132
-     ],
-     "media_url": "http://pbs.twimg.com/media/ELbi2CbXUAASC-O.jpg",
-     "media_url_https": "https://pbs.twimg.com/media/ELbi2CbXUAASC-O.jpg",
-     "url": "https://t.co/GubFQv3iTo",
-     "display_url": "pic.twitter.com/GubFQv3iTo",
-     "expanded_url": "https://twitter.com/WPI/status/1204399373121212416/photo/1",
-     "type": "photo",
-     "sizes": {
-      "thumb": {
-       "w": 150,
-       "h": 150,
-       "resize": "crop"
-      },
-      "small": {
-       "w": 680,
-       "h": 392,
-       "resize": "fit"
-      },
-      "medium": {
-       "w": 1000,
-       "h": 576,
-       "resize": "fit"
-      },
-      "large": {
-       "w": 1000,
-       "h": 576,
-       "resize": "fit"
-      }
-     },
-     "features": {
-      "small": {
-       "faces": [
-        {
-         "x": 82,
-         "y": 70,
-         "h": 23,
-         "w": 23
-        },
-        {
-         "x": 229,
-         "y": 90,
-         "h": 45,
-         "w": 45
-        },
-        {
-         "x": 361,
-         "y": 108,
-         "h": 44,
-         "w": 44
-        }
-       ]
-      },
-      "medium": {
-       "faces": [
-        {
-         "x": 121,
-         "y": 103,
-         "h": 35,
-         "w": 35
-        },
-        {
-         "x": 337,
-         "y": 133,
-         "h": 67,
-         "w": 67
-        },
-        {
-         "x": 532,
-         "y": 159,
-         "h": 66,
-         "w": 66
-        }
-       ]
-      },
-      "large": {
-       "faces": [
-        {
-         "x": 121,
-         "y": 103,
-         "h": 35,
-         "w": 35
-        },
-        {
-         "x": 337,
-         "y": 133,
-         "h": 67,
-         "w": 67
-        },
-        {
-         "x": 532,
-         "y": 159,
-         "h": 66,
-         "w": 66
-        }
-       ]
-      },
-      "orig": {
-       "faces": [
-        {
-         "x": 121,
-         "y": 103,
-         "h": 35,
-         "w": 35
-        },
-        {
-         "x": 337,
-         "y": 133,
-         "h": 67,
-         "w": 67
-        },
-        {
-         "x": 532,
-         "y": 159,
-         "h": 66,
-         "w": 66
-        }
-       ]
-      }
-     }
-    }
-   ]
-  },
-  "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
-  "in_reply_to_status_id": null,
-  "in_reply_to_status_id_str": null,
-  "in_reply_to_user_id": null,
-  "in_reply_to_user_id_str": null,
-  "in_reply_to_screen_name": null,
-  "user": {
-   "id": 16687357,
-   "id_str": "16687357"
-  },
-  "geo": null,
-  "coordinates": null,
-  "place": null,
-  "contributors": null,
-  "is_quote_status": false,
-  "retweet_count": 0,
-  "favorite_count": 6,
   "favorited": false,
   "retweeted": false,
   "possibly_sensitive": false,
